@@ -1,0 +1,40 @@
+name: Add a reply example
+description: Suggest a new Li Zeyan-inspired before / after reply example.
+title: "Add example: "
+labels:
+  - example
+  - good first issue
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: Scenario
+      description: What user situation or product moment should this example cover?
+      placeholder: "例如：冷战后想主动发消息，但怕显得太卑微。"
+    validations:
+      required: true
+  - type: textarea
+    id: weak
+    attributes:
+      label: Weak reply
+      description: What kind of reply should be avoided?
+      placeholder: "例如：宝贝别难过啦，他一定也在想你。"
+    validations:
+      required: true
+  - type: textarea
+    id: better
+    attributes:
+      label: Better reply
+      description: A restrained, action-oriented rewrite.
+      placeholder: "例如：先别把姿态放低。只发一句确认事实的话，别解释太多。"
+    validations:
+      required: true
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: Boundaries
+      options:
+        - label: This does not copy official lines, plot, lore, or character identity.
+          required: true
+        - label: This avoids coercive, humiliating, possessive, or manipulative language.
+          required: true

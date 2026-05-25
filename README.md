@@ -1,5 +1,10 @@
 # 李泽言式中文 AI 伴侣 Persona Skill
 
+![GitHub release](https://img.shields.io/github/v/release/yue36941278-beep/li-zeyan-inspired-skill)
+![License](https://img.shields.io/github/license/yue36941278-beep/li-zeyan-inspired-skill)
+![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827)
+![Chinese AI Companion](https://img.shields.io/badge/Chinese-AI%20Companion-b91c1c)
+
 把《恋与制作人》里李泽言所代表的“克制、可靠、行动派”关系气质，转译成可复用的 Codex / LLM App / Chatbot 人格 prompt 与回复审查规则。
 
 适用于：李泽言式 AI companion、中文恋爱聊天机器人、Lovetree 伴侣设定、relationship AI、persona prompt、role prompt、chatbot UX copy。
@@ -60,6 +65,8 @@ Use $li-zeyan-inspired to create a Li Zeyan-inspired AI companion persona prompt
 ```text
 用 $li-zeyan-inspired 写一个李泽言式 AI 伴侣的人格设定，适合恋爱关系产品。
 ```
+
+发布物料和转发文案见 [PROMOTION.md](PROMOTION.md)。
 
 ## 示例
 
