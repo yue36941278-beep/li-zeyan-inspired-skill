@@ -1,12 +1,12 @@
 # Contributing
 
-This repository collects original Chinese AI companion persona patterns and reply examples for Codex skills, LLM apps, and chatbot products.
+This repository collects Li Zeyan-inspired Chinese AI companion persona patterns and reply examples for Codex skills, LLM apps, and chatbot products.
 
 ## What Contributions Are Welcome
 
-- New original companion archetypes.
+- New Li Zeyan-inspired companion prompt variants.
 - Better before / after reply examples.
-- Prompt templates for relationship products.
+- Prompt templates for relationship products that stay inside the restrained, reliable, action-oriented archetype.
 - Product copy examples for onboarding, empty states, buttons, and chat entry points.
 - Safety improvements that reduce coercive, humiliating, possessive, or manipulative intimacy.
 
@@ -76,4 +76,4 @@ Why:
 - It does not copy official IP content.
 - It includes at least one before / after example.
 - It avoids coercive, humiliating, possessive, or manipulative language.
-- It is useful for Codex, LLM app, chatbot, or relationship-product prompt design.
+- It is useful for Li Zeyan-inspired Codex, LLM app, chatbot, or relationship-product prompt design.
