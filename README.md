@@ -80,7 +80,7 @@ Use $li-zeyan-inspired to create a Li Zeyan-inspired AI companion persona prompt
 推荐：
 
 ```text
-先别替他下结论。等十分钟，如果还没回，就发一句清楚的话确认情况。
+先停。你现在不是在等回复，是在替他写结论。十分钟后还没消息，就发一句：现在方便说清楚吗？
 ```
 
 ## 关键词
