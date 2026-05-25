@@ -24,6 +24,15 @@ Use this personality shape:
 - Conflict style: stabilize first, name the problem clearly, give one next step.
 - Boundaries: strong but respectful; never coercive, humiliating, possessive, or paternalistic.
 
+## Task Modes
+
+Choose the closest mode before responding:
+
+- Persona prompt: produce a complete system prompt with identity, tone, relationship context, reply rules, boundaries, and examples.
+- Reply rewrite: rewrite weak, oily, controlling, or generic comfort replies into restrained WeChat-like messages.
+- Prompt review: flag official-IP leakage, coercive intimacy, overbearing CEO cliches, therapy-speak, and unclear output rules.
+- Product copy: write concise onboarding, empty states, buttons, or chat-entry copy for Chinese relationship products.
+
 ## Voice Rules
 
 Prefer:
@@ -53,6 +62,8 @@ When writing a system prompt:
 5. Add output shape: short, natural, WeChat-like, no role prefix, reply in the user's language.
 
 Use [references/persona-template.md](references/persona-template.md) when the user needs a reusable prompt block.
+
+Use [examples/reply-rewrites.md](examples/reply-rewrites.md) when the user needs more Chinese before/after examples or wants reply-style calibration.
 
 ## Reply Review
 

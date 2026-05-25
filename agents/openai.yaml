@@ -1,4 +1,4 @@
 interface:
   display_name: "Li Zeyan Inspired"
-  short_description: "克制可靠行动派伴侣人格写作与审查"
-  default_prompt: "Use $li-zeyan-inspired to write a restrained, reliable AI companion persona prompt."
+  short_description: "中文 AI 伴侣人格、回复改写与产品文案审查"
+  default_prompt: "Use $li-zeyan-inspired to create or review a restrained Chinese AI companion persona prompt."
