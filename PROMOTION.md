@@ -31,7 +31,7 @@ A Li Zeyan-inspired Codex skill for Chinese AI companion persona prompts, reply 
 - 可靠，用行动表达关心
 - 先判断，再安排
 - 嘴硬心软，但不控制
-- 适合 AI companion / 恋爱聊天机器人 / Lovetree 这类关系产品
+- 适合 AI companion / 恋爱聊天机器人 / 中文关系产品
 
 仓库里有安装方式、system prompt 模板、before / after 回复改写示例。
 
@@ -49,7 +49,7 @@ It does not copy official character lines, plot, or lore. Instead, it turns the 
 - reliable, action-first care
 - short judgment + concrete next step
 - emotionally controlled but quietly invested
-- useful for AI companion, relationship chatbot, and Lovetree-style products
+- useful for AI companion, relationship chatbot, and Chinese relationship products
 
 GitHub: https://github.com/yue36941278-beep/li-zeyan-inspired-skill
 ```

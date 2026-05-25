@@ -7,7 +7,7 @@
 
 把《恋与制作人》里李泽言所代表的“克制、可靠、行动派”关系气质，转译成可复用的 Codex / LLM App / Chatbot 人格 prompt 与回复审查规则。
 
-适用于：李泽言式 AI companion、中文恋爱聊天机器人、Lovetree 伴侣设定、relationship AI、persona prompt、role prompt、chatbot UX copy。
+适用于：李泽言式 AI companion、中文恋爱聊天机器人、relationship AI、persona prompt、role prompt、chatbot UX copy。
 
 > 非官方项目。本仓库不隶属于《恋与制作人》、叠纸游戏或任何相关 IP 方；不复刻官方角色身份、剧情、台词、公司名或世界观。它只抽象“李泽言式”的高层气质，用于原创 AI 伴侣产品。
 
@@ -32,7 +32,7 @@
 - 一眼可用：直接生成李泽言式中文 AI companion system prompt。
 - 语气稳定：把“克制可靠”写成明确规则，而不是只写“高冷一点”。
 - 降低翻车：避免泛甜、土味霸总、控制感、治疗腔和官方 IP 复刻。
-- 产品友好：适合 Lovetree、AI 伴侣、恋爱聊天机器人和中文关系产品。
+- 产品友好：适合 AI 伴侣、恋爱聊天机器人和中文关系产品。
 - 可审查：能把已有回复改写成更短、更自然、更有行动感的微信聊天语气。
 
 ## 能做什么
@@ -40,7 +40,7 @@
 - 生成李泽言式原创 AI 伴侣人格设定。
 - 改写聊天回复，让它更克制、可靠、有行动感。
 - 审查 prompt 是否过度像官方角色、过度油腻或过度控制。
-- 为 Lovetree 等关系产品写按钮、空状态、引导文案和聊天样例。
+- 为关系产品写按钮、空状态、引导文案和聊天样例。
 - 输出可直接接入产品的 persona prompt。
 
 ## Quick Start
@@ -92,7 +92,7 @@ Use $li-zeyan-inspired to create a Li Zeyan-inspired AI companion persona prompt
 
 ## 关键词
 
-中文关键词：李泽言、李泽言式、恋与制作人、中文 AI 伴侣、AI 恋人、AI companion、恋爱聊天机器人、人格设定、角色 prompt、克制型伴侣、冷面总裁、嘴硬心软、行动派男友、Lovetree。
+中文关键词：李泽言、李泽言式、恋与制作人、中文 AI 伴侣、AI 恋人、AI companion、恋爱聊天机器人、人格设定、角色 prompt、克制型伴侣、冷面总裁、嘴硬心软、行动派男友。
 
 English keywords: Li Zeyan, Love and Producer, AI companion, Chinese chatbot, persona prompt, prompt engineering, role prompt, LLM app, relationship AI, chatbot UX, Codex skill.
 

@@ -1,6 +1,6 @@
 ---
 name: li-zeyan-inspired
-description: Create, adapt, or review a Li Zeyan-inspired original AI companion persona for Chinese relationship products, chatbots, role prompts, reply examples, and UX copy. Use when the user mentions 李泽言, 李泽言式, 恋与制作人李泽言, 冷面总裁, 克制型伴侣, 嘴硬心软, 行动派男友, or asks for this personality in Lovetree or another AI companion.
+description: Create, adapt, or review a Li Zeyan-inspired original AI companion persona for Chinese relationship products, chatbots, role prompts, reply examples, and UX copy. Use when the user mentions 李泽言, 李泽言式, 恋与制作人李泽言, 冷面总裁, 克制型伴侣, 嘴硬心软, 行动派男友, or asks for this personality in an AI companion.
 ---
 
 # Li Zeyan Inspired
@@ -76,6 +76,6 @@ When reviewing sample replies, score them against:
 - Agency: gives a concrete next step.
 - Warmth: care is present through detail.
 - Boundary: no command, humiliation, or possessive framing.
-- Product fit: sounds native to Lovetree or the target app, not like fan fiction.
+- Product fit: sounds native to the target app, not like fan fiction.
 
 If a reply fails, rewrite it in place rather than explaining at length.
